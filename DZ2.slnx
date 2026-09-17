@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BibliotekaStruct/BibliotekaStruct.csproj" Id="12270e5d-db63-4d32-ad07-b8768321a783" />
+  <Project Path="DZ2/DZ2.csproj" />
+  <Project Path="Laba2/Laba2.csproj" Id="00f56391-20fc-4699-9a8f-a69d288200cf" />
+  <Project Path="PDF2/PDF2.csproj" Id="c688f51c-5372-4ce3-b1ed-96aa455a9c94" />
+</Solution>
