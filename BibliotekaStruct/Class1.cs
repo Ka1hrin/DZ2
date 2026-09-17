@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Data;
-using System.Globalization;
-using System.Security.Cryptography.X509Certificates;
+using System.Globalization; 
 namespace BibliotekaStruct
 {
     
